@@ -1,0 +1,1 @@
+{"virtualbox":{"/compartida":{"guestpath":"/compartida","hostpath":"/Users/johangiraldohurtado/Desktop/compartida","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/johangiraldohurtado/Desktop/vagrant","disabled":false,"__vagrantfile":true}}}
